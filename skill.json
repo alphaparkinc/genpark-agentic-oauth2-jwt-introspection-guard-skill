@@ -1,0 +1,12 @@
+{
+  "name": "genpark-agentic-oauth2-jwt-introspection-guard-skill",
+  "version": "1.0.0",
+  "description": "Agentic OAuth2 authentication gateway verifying JWT signatures, clock skew expiration, and proactive refresh",
+  "author": "GenPark AI Engineering",
+  "license": "MIT",
+  "keywords": ["oauth2", "jwt-introspection", "auth-guard", "token-refresh", "api-security", "agent-skills"],
+  "mcp": {
+    "supported": true,
+    "entrypoint": "mcp_server.py"
+  }
+}
